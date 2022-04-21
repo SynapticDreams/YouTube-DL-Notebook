@@ -10,7 +10,7 @@
 
 ## Usage:
 
-<a href="https://colab.research.google.com/github/SynapticDreams/YouTube-DL-Notebook/blob/main/YouTube_DL_Notebook.ipynbb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/SynapticDreams/YouTube-DL-Notebook/blob/main/YouTube_DL_Notebook.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## To Do:
