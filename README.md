@@ -16,10 +16,16 @@
 ## To Do:
   
 - [x] Initial Release
+- [x] Increase Speed (See Notes)
 - [ ] Add option for Playlist or whole channel
 - [ ] Add variable for storage folder on colab and drive
 
+  
+## To Do:
 
+Using the YouTube-DL core, speeds were never going above 100kb/s. Upon investigating, the core was switched to YT-DLP which provides numerious bug fixes and features including a fix to increase the speed.
+  
+  
 ## Disclaimer
 
 I will not be responsible for how you use YouTube-DL-Notebook or Youtube-DL
