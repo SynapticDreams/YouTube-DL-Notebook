@@ -21,7 +21,7 @@
 - [ ] Add variable for storage folder on colab and drive
 
   
-## To Do:
+## Notes:
 
 Using the YouTube-DL core, speeds were never going above 100kb/s. Upon investigating, the core was switched to YT-DLP which provides numerious bug fixes and features including a fix to increase the speed.
   
